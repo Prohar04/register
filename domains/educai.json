@@ -1,0 +1,9 @@
+{
+  "owner": {
+    "username": "Prohar04",
+    "email": "Prohar04@users.noreply.github.com"
+  },
+  "record": {
+    "TXT": ["v=spf1 include:sendgrid.net ~all"]
+  }
+}
